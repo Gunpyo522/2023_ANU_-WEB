@@ -1,1 +1,9 @@
-## 이 프로젝트는 학생주도역랑 프로그램으로 만들어진 Node.js Web입니다.
+# 2023_PASS_WEB
+## 개발환경
+* Node.js v18.16.1
+---
+## 실행방법
+```
+npm install -g nodemon
+npm run dev
+```
